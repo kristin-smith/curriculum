@@ -33,8 +33,8 @@ Chrome Developer Tools help tremendously with front-end development (HTML, CSS &
 
 ### Common Mistakes / Misconceptions
 - **"Websites are so mysterious! I can't find out how they're made."** Hopefully this lesson has shown you how to find the code behind your favorite websites!
-- **"All the source code I'll see using Chrome Dev Tools is good-quality code."** Most of the code you'll see will be good-quality code if you're looking at the website of a reputable or well-known company. There are exceptions, however.
-- **"I can just copy and paste whatever code I find using Chrome Dev Tools."** You should always 1) Understand the code you want to use before you put it into your own project, and 2) Give proper credit to the company or person who wrote the code.
+- **"All the source code I'll see using Chrome Dev Tools is good-quality code."** Most of the code you'll see will be good-quality code if you're looking at the website of a reputable or well-known company. There are exceptions, however. Additionally, source code can be compressed or optimized in ways that may make it more difficult for humans to read. 
+- **"I can just copy and paste whatever code I find using Chrome Dev Tools."** You should always 1) Understand the code you want to use before you put it into your own project, and 2) Give proper credit to the company or person who wrote the code. Copyright laws protect some website code, so copying and pasting would be illegal. If you borrow code from known open-source code projects, your project will need to comply with that project’s open-source license agreement as well. 
 
 ### Demonstration
 The instructor demonstrates how to use Chrome Developer Tools during the video walkthrough.
